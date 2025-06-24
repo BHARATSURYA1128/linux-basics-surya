@@ -1,0 +1,52 @@
+what is shell ? 
+Shell is a user interface that allows user to interact with system . shell can command line intrface or graphical interface . it will interpret the commands given by the user and communicate with the operating system to execute the commands
+
+what is CLI ?
+cli means command line interface it a type of shell where user refers the commands as text to perform specific tasks.it is very much useful for automating , scripting and allows users to make complex tasks.
+
+pwd  = present working directory
+ls = list directory contents
+ls -l = list directory in long listing format
+cd = change directory 
+cd ~ = go to home folder
+cd / = go to root folder
+mkdir = make directory
+touch = touch command used to create file or multiple files
+cat = concatenate used for displaying, creating, and manipulating text files
+cp = copy command used to copy files
+mv = move command used to rename and also move file to another folder
+rm = remove command delete data permanently (cautious)
+
+assignment :
+
+create a repo on github as "Linux-basics-surya"
+intiate the git in main folder as devops-practice
+create the file structure
+run the hello.sh script file
+pushed all the files using commit message as "Assignment day 1"
+
+quiz ans:
+1. pwd
+2. change the file permissions as 100 and execute it as ./filename
+3. to remove dir with its contents i use "rm -i"
+4. i use ls -a command to list all files and file which start with . are hidden files
+5. ls -la means list directory contents with all the files including hiiden in long listing format
+
+daily recap :
+what commands i learn today ?
+i learn linux basic commands like ls , cd , ls -la , touch , mkdir , cd~ , rm , chmod , cat , cp ,mv , pwd .
+i also learn git commands like git inti , git add . , git status , git commit -m <message> , git remote add origin <url of repo> , git remove -v , git push origin main , git branch -m <name> .
+
+what mistakes did i make and how i fix them ?
+today i did not do any mistake in learning linux commands but i did lot of mistakes when using git and github.
+when i initiated the git i did not give default config of username and email.
+i did add remote repo before doing all the task on git.
+i did not pull before push.
+i got a problem when push the files . that was password authentication was removed. so , to solve this problem i created a classic token in the deloper setting of github and add that token as password when it prompted for password .
+finally i push the code to the remote repo
+
+did i document everything in github ?
+yes i did  it the file 
+
+post a day 1 recap on linkedin?
+no 😢
